@@ -134,3 +134,11 @@ docker-compose down && docker-compose up
 [2° Algoritmo para Validar CPF](https://dicasdeprogramacao.com.br/algoritmo-para-validar-cpf/)
 
 [3° Pacote Python para validação de documentos brasileiros](https://pypi.org/project/validate-docbr/)
+
+[4° Factory Method](https://pt.wikipedia.org/wiki/Factory_Method)
+
+[5° Padrão de Projeto: Factory Method](https://www.thiengo.com.br/padrao-de-projeto-factory-method)
+
+[6° Factory Method Design Pattern](https://sourcemaking.com/design_patterns/factory_method)
+
+[7° Factory: Encapsulating Object Creation](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Factory.html)

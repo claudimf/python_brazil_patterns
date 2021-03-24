@@ -39,8 +39,6 @@ class CpfCnpj:
             return self.format_cpf()
         elif self.tipo_documento == "cnpj":
             return self.format_cnpj()
-        else:
-            return "Documento inválido!"
 
     def cnpj_eh_Valido(self, cnpj):
         if len(cnpj) == 14:

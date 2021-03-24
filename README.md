@@ -130,3 +130,7 @@ docker-compose down && docker-compose up
 # Referências utilizadas
 
 [1° Conteinerização de scripts em Python](https://github.com/claudimf/containerized_python)
+
+[2° Algoritmo para Validar CPF](https://dicasdeprogramacao.com.br/algoritmo-para-validar-cpf/)
+
+[3° Pacote Python para validação de documentos brasileiros](https://pypi.org/project/validate-docbr/)

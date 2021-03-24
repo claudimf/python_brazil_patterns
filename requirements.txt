@@ -1,0 +1,5 @@
+# Listar pacotes e dependências
+pipdeptree==2.0.0
+
+# Validar documentos brasileiros
+validate-docbr==1.8.2
